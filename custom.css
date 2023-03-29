@@ -1,5 +1,10 @@
+@font-face {
+  font-family: 'Arcadepix Plus';
+  src: url('assets/fonts/Arcadepix Plus.ttf') format('truetype');
+}
+
 body {
-    font-family: 'Proxima Nova', Georgia, sans-serif;
+  font-family: 'Arcadepix Plus', sans-serif;
     background-color: #000000;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
@@ -160,7 +165,7 @@ nav {
 .prod-contain-top>h2 {
   font-size: 4rem;
   padding-top: .5rem;
-  font-family: 'Proxima Nova', Georgia, sans-serif;
+  font-family: 'Arcadepix Plus', sans-serif;
   font-weight: bold;
   color: #000000 !important;
 }
@@ -181,7 +186,7 @@ nav {
 
 .prod-contain-bottom>h2 {
   font-size: 4.5rem;
-  font-family: 'Proxima Nova', Georgia, sans-serif;
+  font-family: 'Arcadepix Plus', sans-serif;
   font-weight: 600;
   color: #7693aa !important;
   margin-bottom: .5rem;
@@ -193,7 +198,7 @@ nav {
 .pphr {
   font-size: 25px !important;
   margin: 0;
-  font-family: 'Proxima Nova', Georgia, sans-serif;
+  font-family: 'Arcadepix Plus', sans-serif;
   font-weight: 600 !important;
   color: #7693aa !important;
 }
@@ -215,7 +220,7 @@ nav {
 .hold-contain-top>h2 {
   font-size: 4rem;
   padding-top: .5rem;
-  font-family: 'Proxima Nova', Georgia, sans-serif;
+  font-family: 'Arcadepix Plus', sans-serif;
   font-weight: bold;
   color: #7693aa !important;
 }
@@ -236,7 +241,7 @@ nav {
 
 .hold-contain-bottom>h2 {
   font-size: 4.5rem;
-  font-family: 'Proxima Nova', Georgia, sans-serif;
+  font-family: 'Arcadepix Plus', sans-serif;
   font-weight: 600;
   color: #7693aa !important;
   margin-bottom: .5rem;
@@ -248,7 +253,7 @@ nav {
 .hold-contain-bottom>.pphr {
   font-size: 25px !important;
   margin: 0;
-  font-family: 'Proxima Nova', Georgia, sans-serif;
+  font-family: 'Arcadepix Plus', sans-serif;
   font-weight: 600;
   color: #7693aa !important;
 }
@@ -290,7 +295,7 @@ nav {
 h1 {
     font-size: 3.5rem;
     color: #7693aa;
-    font-family: 'Proxima Nova', Georgia, sans-serif;
+    font-family: 'Arcadepix Plus', sans-serif;
     font-weight: bolder;
     margin-bottom: 15px
 }
